@@ -1,0 +1,161 @@
+﻿
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Multidata Insert</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+</head>
+<body>
+
+    @*<style>
+            body {
+                background-image: url('../../wwwroot/images/aroplane/airplane4.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+        </style>*@
+
+    <div>
+        <br />
+        <div class="w3-card-4">
+            <div class="w3-container w3-brown">
+                <h3>Multiple Data Insert to Category Table</h3>
+            </div>
+            <form class="w3-container" action="/action_page.php">
+                <p>
+
+                    <label class="w3-text-brown"><b>Category Name :</b></label>
+                    <input class="w3-input w3-border w3-sand" type="text" id="CategoryName">
+                </p>
+                <p>
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetail" value="Add" onclick="AddValueToList();" />
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetailEdit" value="Save" onclick="EditValueToList();" />
+                </p>
+            </form>
+        </div>
+
+        <br />
+        <table id="infoTable" class="table">
+            <thead>
+                <tr class="info">
+                    <th>Category ID</th>
+                    <th>Category Name</th>
+
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <input type="button" id="btnUpdateUserDetail" value="Submit to Server" onclick="UpdateCategoryInfo();" />
+    </div>
+</body>
+</html>
+
+<script lang="en" type="text/javascript">
+
+    var CategoryID = 0;
+    var CategoryList = [];
+    function AddValueToList() {
+
+        var a = document.getElementById("CategoryName").value;
+
+        if (a == "") {
+            alert("Input data can not empty");
+            return false;
+        }
+
+        CategoryID = 0;
+        var Category = {};
+        Category["CategoryID"] = CategoryList.length + 1;
+        Category["CategoryName"] = document.getElementById("CategoryName").value;
+
+        CategoryList.push(Category);
+        fillTable();
+
+    }
+
+    function EditValueToList() {
+        for (var i = CategoryList.length; i--;) {
+            if (CategoryList[i].CategoryID === CategoryID) {
+                CategoryList[i].CategoryName = document.getElementById("CategoryName").value;
+
+                break;
+            }
+        }
+
+        fillTable();
+    }
+
+    function fillTable() {
+
+        $('#infoTable > tbody').empty();
+
+        CategoryList.forEach(function (val) {
+            $('#infoTable > tbody:last-child').append('<tr><td>' + val.CategoryID + '</td><td>' + val.CategoryName + '</td><td><input type="button"  value="Delete" onclick="tempDelete(' + val.CategoryID + ')" /><input type="button"  value="Edit" onclick="editPre(' + val.CategoryID + ')" /></td></tr>');
+        })
+    }
+
+    function tempDelete(CategoryID) {
+        remove(CategoryList, CategoryID);
+        fillTable();
+    }
+
+    function editPre(CategoryID) {
+        for (var i = CategoryList.length; i--;) {
+            if (CategoryList[i].CategoryID === CategoryID) {
+                DeliveryBoyId = CategoryID;
+                document.getElementById("CategoryName").value = CategoryList[i].CategoryName;
+
+                break;
+            }
+        }
+    }
+
+    function remove(arr, item) {
+        for (var i = arr.length; i--;) {
+            if (arr[i].CategoryID === item) {
+                arr.splice(i, 1);
+            }
+        }
+
+        for (var i = 0; i < arr.length; i++) {
+            arr[i].CategoryID = i + 1;
+        }
+
+    }
+
+    function UpdateCategoryInfo() {
+        var CategoryJson = JSON.stringify(CategoryList);
+        var getReportColumnsParams = { "CategoryJson": CategoryJson };
+        $.ajax({
+            type: "POST",
+            traditional: true,
+            async: false,
+            cache: false,
+            url: '/Categories/insertCategoryInfo',
+            context: document.body,
+            data: getReportColumnsParams,
+            success: function (result) {
+                alert(result);
+            },
+            error: function (xhr) {
+                //debugger;
+                console.log(xhr.responseText);
+                alert("Error has occurred..");
+            }
+        });
+        CategoryList = [];
+        document.getElementById("CategoryName").value = '';
+
+        fillTable();
+    }
+
+</script>

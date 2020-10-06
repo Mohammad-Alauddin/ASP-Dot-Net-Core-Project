@@ -1,0 +1,617 @@
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+C:\Users\jaha\source\repos\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\jaha\source\repos\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+C:\Users\Administrator\Desktop\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\Administrator\Desktop\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+E:\Jahangir\Asp.Net Core\Final Project\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+C:\Users\jaha\Desktop\Project_08 (1)\Project_08\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\MultiCustomers.g.cshtml.cs
+C:\Users\Alauddin Ahsan\Desktop\9th Module\Final Core Project\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Sample.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+F:\Module_9\AspCore Final Project\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Sample.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\MultiCustomers.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+F:\Module_9\AspCore Final Project\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.deps.json
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.dll
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.pdb
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Sample.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Customers\MultiCustomers.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.dll
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.pdb
+E:\Jahangir\Student\Mohammad Ala Uddin\Project_08\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.deps.json
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.dll
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.pdb
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+F:\Module_9\AspCoreProject Update\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Sample.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Customers\MultiCustomers.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.dll
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.pdb
+F:\Module_9\AspCoreProject Update\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\appsettings.json
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.deps.json
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.json
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.runtimeconfig.dev.json
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.dll
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.pdb
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.Views.dll
+E:\All Projects\AspCoreProject _Module-9\Project File\bin\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.csprojAssemblyReference.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfoInputs.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.AssemblyInfo.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.csproj.CoreCompileInputs.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.RazorAssemblyInfo.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.input.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.TagHelpers.output.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.RazorCoreGenerate.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Sample.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Customers\MultiCustomers.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\RoleAssignWithUser.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.RazorTargetAssemblyInfo.cs
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.Views.pdb
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.dll
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.pdb
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.genruntimeconfig.cache
+E:\All Projects\AspCoreProject _Module-9\Project File\obj\Debug\netcoreapp2.1\Project_08.csproj.CopyComplete

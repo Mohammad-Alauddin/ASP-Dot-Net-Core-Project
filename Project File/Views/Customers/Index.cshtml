@@ -1,0 +1,199 @@
+﻿@model PaginatedList<Project_08.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+    <h2>Customer Index</h2>
+
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">CustomerName</a>
+                @*@Html.DisplayNameFor(model => model.CustomerName)*@
+            </th>
+            <th>
+                City
+                @*@Html.DisplayNameFor(model => model.City)*@
+            </th>
+            <th>
+                Country
+                @*@Html.DisplayNameFor(model => model.Country)*@
+            </th>
+            <th>
+                Phone
+                @*@Html.DisplayNameFor(model => model.phone)*@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.phone)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CustomerID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CustomerID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CustomerID">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>
+
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+
+<script lang="en" type="text/javascript">
+
+    var SubjectId = 0;
+    var subjectList = [];
+    function AddValueToList() {
+
+        var n = document.getElementById("SubjectName").value;
+
+
+        if (n == "") {
+            alert("Input data can not empty");
+            return false;
+        }
+
+        SubjectId = 0;
+        var subjectDetails = {};
+        subjectDetails["SubjectID"] = subjectList.length + 1;
+        subjectDetails["SubjectName"] = document.getElementById("SubjectName").value;
+        subjectList.push(subjectDetails);
+        fillTable();
+
+
+    }
+
+    function fillTable() {
+        $('#infoTable > tbody').empty();
+
+        subjectList.forEach(function (val) {
+            $('#infoTable > tbody:last-child').append('<tr><td>' + val.SubjectID + '</td><td>' + val.SubjectName + '</td><td><input type="button" class="btn btn-warning" value="Edit" onclick="editPre(' + val.SubjectID + ')"> | <input type="button" class="btn btn-danger" value="Delete" onclick="tempDelete(' + val.SubjectID + ')" /></td></tr>');
+        })
+
+    }
+
+
+    function EditValueToList() {
+
+        for (var i = subjectList.length; i--;) {
+            if (subjectList[i].SubjectID === SubjectID) {
+                subjectList[i].SubjectName = document.getElementById("SubjectName").value;
+                break;
+            }
+        }
+
+        fillTable();
+
+    }
+
+    function editPre(SubjectID) {
+        for (var i = subjectList.length; i--;) {
+            if (subjectList[i].SubjectID === SubjectID) {
+                SubjectID = SubjectID;
+                document.getElementById("SubjectName").value = subjectList[i].SubjectName;
+                break;
+            }
+        }
+
+
+    }
+
+
+    function tempDelete(SubjectID) {
+        remove(subjectList, SubjectID);
+        fillTable();
+    }
+
+    function remove(arr, item) {
+        for (var i = arr.length; i--;) {
+            if (arr[i].SubjectID === item) {
+                arr.splice(i, 1);
+            }
+        }
+        for (var i = 0; i < arr.length; i++) {
+            arr[i].SubjectID = i + 1;
+        }
+
+    }
+
+
+    function UpdateSubjectDetail() {
+        var subjectJson = JSON.stringify(subjectList);
+
+        var getReportColumnsParams = { "subjectJson": subjectJson };
+
+        $.ajax({
+            type: "POST",
+            traditional: true,
+            async: false,
+            cache: false,
+            url: '/Subjects/MultipleDataInsert',
+            context: document.body,
+            data: getReportColumnsParams,
+            success: function (result) {
+                alert(result);
+            },
+            error: function (xhr) {
+                console.log(xhr.responseText);
+                alert("Error has occurred..");
+            }
+        });
+
+
+        subjectList = [];
+        document.getElementById("SubjectName").value = '';
+        fillTable();
+    }
+
+</script>
